@@ -52,7 +52,7 @@ A mighty maxim, never fame did require.
 
 So if you've got, then consider allowing us to review your inspiration(s) for possible inclusion into our ever-growing collection of hand-picked planetary 'ponderables.
 
-![MightyMaxims Quote Submissions](https://github.com/soft9000/DoctorQuote/blob/master/MightyMaxims/QuoteYourSelf01.png)
+<img src="https://github.com/soft9000/DoctorQuote/blob/master/MightyMaxims/QuoteYourSelf01.png" width=500>
 
 After all:
 
