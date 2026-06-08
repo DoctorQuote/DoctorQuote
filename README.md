@@ -9,7 +9,7 @@ We're sharing our 'fav ideas on [MightyMaxims.com](http://mightymaxims.com), [am
 ## 💫NEW: Improved Python Support (2026/06/07)
 Added support for running `MightyMaxims` from the command line. 
 
-👉 First [download the installer](https://github.com/DoctorQuote/DoctorQuote/blob/master/mightymaxims-2026.6.7-py3-none-any.whl).
+👉 First [download the installer](https://github.com/DoctorQuote/DoctorQuote/blob/master/PythonPackageInstaller/mightymaxims-2026.6.7-py3-none-any.whl)
 
 👉 Once installed either:
 
