@@ -32,18 +32,18 @@ Added support for running `MightyMaxims` from the command line.
 Here is the [classic Doctor Quote Software](https://github.com/soft9000/DoctorQuote/tree/master/DoctorQuote32)?
 
 ## Got Web?
--Not to forget my classic software name for a free, web-based, cross-platform (PHP), [quotation-management](https://github.com/soft9000/DoctorQuote/tree/master/QuoteStat04), tool.
+Not to forget my classic software name for a free, web-based, cross-platform (PHP), [quotation-management](https://github.com/soft9000/DoctorQuote/tree/master/QuoteStat04), tool.
 
 
 Enjoy,
 
 -- Randall Nagy
 
-[YouTube Nexus](https://www.youtube.com/@MightyMaxims)
+👉 [YouTube Nexus](https://www.youtube.com/@MightyMaxims)
 
-[Online Community](https://ko-fi.com/doctorquote)
+👉 [Online Community](https://ko-fi.com/doctorquote)
 
-[Buy a Book or 6](https://www.amazon.com/gp/product/B0FPR7NKYR)
+👉 [Buy a Book or 6](https://www.amazon.com/gp/product/B0FPR7NKYR)
 
 ## zMighty Opportunity
 We must believe - from self-sayings to pet-proverbs - that this great blue marble of ours 'behoards many more marvelous maxims.
