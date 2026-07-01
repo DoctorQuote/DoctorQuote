@@ -23,6 +23,8 @@ Added support for running `MightyMaxims` from the command line.
 
 👉 First [download the installer](https://github.com/DoctorQuote/DoctorQuote/blob/master/PythonPackageInstaller/mightymaxims-2026.6.7-py3-none-any.whl)
 
+👉 (Using `python -m pip install MightyMaxims` works too.)
+
 👉 Once installed either:
 
 ```python -m MightyMaxims```
@@ -37,7 +39,7 @@ Added support for running `MightyMaxims` from the command line.
 
 👉 Note that the program no longer exits after being initialized. 
 
-👉 See the video for more information.
+👉 See [the video](https://www.youtube.com/shorts/gJOylaramnc) for more information.
 
 
 ## 💫Windows GUI
