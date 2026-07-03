@@ -18,6 +18,21 @@
 
 🤓For real 'quoties, we've also a [quote cleanup challenge](https://github.com/soft9000/mightymaxims) to share!
 
+## 💫NEW: GUI Support (2026/07/04)
+Added support for running `TkMaxims` from the command line. 
+
+👉 Once installed either:
+
+```python -m TkMaxims```
+
+~ or ~
+
+```>>> import TkMaxims```
+
+~ or ~
+
+```TkMaxims``` (🌎 recommended!)
+
 ## 💫NEW: Improved Python Support (2026/06/07)
 Added support for running `MightyMaxims` from the command line. 
 
@@ -35,7 +50,7 @@ Added support for running `MightyMaxims` from the command line.
 
 ~ or ~
 
-```MightyMaxims```
+```MightyMaxims``` (🌎 recommended!)
 
 👉 Note that the program no longer exits after being initialized. 
 
