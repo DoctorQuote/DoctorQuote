@@ -18,8 +18,14 @@
 
 🤓For real 'quoties, we've also a [quote cleanup challenge](https://github.com/soft9000/mightymaxims) to share!
 
+---
+
 ## 💫NEW: GUI Support (2026/07/04)
 Added support for running `TkMaxims` from the command line. 
+
+👉 First [download the installer](https://github.com/DoctorQuote/DoctorQuote/blob/master/TkMaxims/dist/tkmaxims-2026.7.4-py3-none-any.whl)
+
+👉 (Using `python -m pip install TkMaxims` works too.)
 
 👉 Once installed either:
 
@@ -32,6 +38,8 @@ Added support for running `TkMaxims` from the command line.
 ~ or ~
 
 ```TkMaxims``` (🌎 recommended!)
+
+---
 
 ## 💫NEW: Improved Python Support (2026/06/07)
 Added support for running `MightyMaxims` from the command line. 
