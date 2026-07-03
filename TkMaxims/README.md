@@ -23,7 +23,7 @@ pip install tkmaxims
 
 ```
 
-*(This will automatically download and map the underlying `MightyMaxims` backend package for you.)\*
+*(This will automatically download and map the underlying `MightyMaxims` backend package for you.)*
 
 
 
