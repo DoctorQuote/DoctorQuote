@@ -93,6 +93,8 @@ Not to forget my classic software name for a free, web-based, cross-platform (PH
 ## 💫zSupport?
 If you want to support the effort, I seek no donations. Instead, simply feel free to purchase one of [my educational](https://www.udemy.com/user/randallnagy2/) or [printed](https://www.amazon.com/Randall-Nagy/e/B08ZJLH1VN?ref=sr_ntt_srch_lnk_1&qid=1660050704&sr=8-1) productions?
 
+![GoodQuote](https://github.com/DoctorQuote/DoctorQuote/blob/master/TkMaxims/Mm11795.png)
+
 👉 [YouTube Nexus](https://www.youtube.com/@MightyMaxims)
 
 👉 [Online Community](https://ko-fi.com/doctorquote)
