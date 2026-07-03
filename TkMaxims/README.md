@@ -15,11 +15,11 @@ A modern, responsive Tkinter graphical user interface (GUI) built around the `Mi
 
 ## 🚀 Installation
 
-You can install `tkmaxims` directly from PyPI along with all its required dependencies:
+You can install `TkMaxims` directly from PyPI along with all its required dependencies:
 
 ```bash
 
-pip install tkmaxims
+pip install TkMaxims
 
 ```
 
@@ -33,7 +33,7 @@ Once installed via PyPI, you can launch the graphic user interface directly from
 
 ```bash
 
-tkmaxims
+TkMaxims
 
 ```
 
@@ -41,7 +41,7 @@ Alternatively, you can always initialize it directly through Python:
 
 ```bash
 
-python -m tkmaxims
+python -m TkMaxims
 
 ```
 
